@@ -3,10 +3,7 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-ul {
-    list-style-type: none;
-    text-decoration: none;
-}
+
 .link {
     text-decoration: none;
 
@@ -25,6 +22,7 @@ ul {
 }
 .menu-link {
 text-decoration: none;
+
 }
 .navigation-menu {
     color: #2E2F42;
@@ -33,7 +31,40 @@ text-decoration: none;
 .address-menu .link {
     color: #434455;
 }
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+.page-title {
+color: #FFFFFF;
+background-color: #2E2F42;
+font-size: 56px;
+text-align: center;
+}
+.button-title {
+color: #FFFFFF;
+background-color: #4D5AE5;
+text-align: center;
+} 
 
+.section-title {
+font-size: 20px;
+color: #2E2F42;
+}
+.section-team {
+font-size: 36px;
+text-align: center;
+}
+.section-text {
+text-align: left;}
+.team-member {
+font-size: 20px;
+color: #2E2F42;
+}
+.portfolio-section {
+text-align: center;
+font-size: 36px;
+}
 
 
 
