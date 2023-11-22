@@ -3,64 +3,63 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-
-.link {
-    text-decoration: none;
-
-}
-.logo {
-    
+.logo-link {
     font-family: "Raleway"; sans-serif;
-    font-size: 18px;
-    color: #2E2F42;
-    text-decoration: none;
-    text-transform: uppercase;
-}
- .logo-name {
-    color: #4D5AE5;
-    text-transform: uppercase;
-}
-.menu-link {
-text-decoration: none;
-
-}
-.navigation-menu {
-    color: #2E2F42;
-    text-decoration: none;
-}
-.address-menu .link {
-    color: #434455;
+        font-size: 18px;
+        color: #2E2F42;
+        text-decoration: none;
+        text-transform: uppercase;
 }
 ul {
     list-style-type: none;
     text-decoration: none;
 }
-.page-title {
+
+ .logo-name {
+    color: #4D5AE5;
+ 
+}
+.menu-link {
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.address-link {
+    color: #434455;
+    text-decoration: none;
+}
+
+.post-title {
 color: #FFFFFF;
 background-color: #2E2F42;
 font-size: 56px;
 text-align: center;
 }
-.button-title {
+.post-button {
 color: #FFFFFF;
 background-color: #4D5AE5;
 text-align: center;
 } 
-
-.section-title {
+.post {
+text-align: center;
+}
+.solutions-name {
 font-size: 20px;
 color: #2E2F42;
 }
 .section-team {
 font-size: 36px;
 text-align: center;
+
 }
-.section-text {
-text-align: left;}
 .team-member {
 font-size: 20px;
 color: #2E2F42;
+
 }
+.section-text {
+text-align: left;}
+
 .portfolio-section {
 text-align: center;
 font-size: 36px;
